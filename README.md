@@ -1,2 +1,2 @@
 # Amuni-assets
-This is my first repository for my website
+Image assets for the AMUNÌ digital platform
